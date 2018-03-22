@@ -32,3 +32,6 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+NystromGenerator/Library/
+NystromGenerator/.vs/NystromGenerator/v15/Server/sqlite3/db.lock
+NystromGenerator/.vs/NystromGenerator/v15/Server/sqlite3/storage.ide
